@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UserManagement.AppHost/UserManagement.AppHost.csproj" />
+  <Project Path="UserManagement.ServiceDefaults/UserManagement.ServiceDefaults.csproj" />
+  <Project Path="UserManagement/UserManagement.csproj" />
+</Solution>
