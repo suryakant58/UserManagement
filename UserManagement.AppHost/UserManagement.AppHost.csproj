@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\UserManagement\UserManagement.csproj" />
+    <ProjectReference Include="..\UserManagement\UserManagement.Api.csproj" />
   </ItemGroup>
 
 </Project>

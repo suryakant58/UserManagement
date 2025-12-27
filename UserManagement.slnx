@@ -1,5 +1,9 @@
 <Solution>
   <Project Path="UserManagement.AppHost/UserManagement.AppHost.csproj" />
+  <Project Path="UserManagement.Application/UserManagement.Application.csproj" Id="21546821-8c37-4a27-a184-26940c2d5cf9" />
+  <Project Path="UserManagement.Domain/UserManagement.Domain.csproj" Id="78dc2da8-b597-4fda-9746-7ff76269710b" />
+  <Project Path="UserManagement.Infrastructure/UserManagement.Infrastructure.csproj" Id="d67fc1e0-5886-4be4-9d56-1e1b85b5353c" />
   <Project Path="UserManagement.ServiceDefaults/UserManagement.ServiceDefaults.csproj" />
-  <Project Path="UserManagement/UserManagement.csproj" />
+  <Project Path="UserManagement.Tests/UserManagement.Tests.csproj" Id="246b635d-dcf4-404d-ba99-ccdb1dc8a424" />
+  <Project Path="UserManagement/UserManagement.Api.csproj" />
 </Solution>
